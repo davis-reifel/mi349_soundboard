@@ -10,18 +10,18 @@ buttonOne.addEventListener('mouseenter', function () {
     audioOne.play()
 })
 buttonTwo.addEventListener('mouseenter', function () {
-    console.log('I was clicked!')
+    audioTwo.play()
 })
 buttonThree.addEventListener('mouseenter', function () {
-    console.log('I was clicked!')
+    audioThree.play()
 })
 
 buttonOne.addEventListener('click', function () {
     audioOne.play()
 })
 buttonTwo.addEventListener('click', function () {
-    console.log('I was clicked!')
+    audioTwo.play()
 })
 buttonThree.addEventListener('click', function () {
-    console.log('I was clicked!')
+    audioThree.play()
 })
