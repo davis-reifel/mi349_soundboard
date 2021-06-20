@@ -22,7 +22,8 @@ body {
 
 #primary {
     background-color: #111;
-    border: #fff;
+    border: none;
+    color: #fff;
 }
 
 h1 {
